@@ -14,20 +14,16 @@
 * [🛰 Cas spécifiques](debuter/cas-specifiques/README.md)
   * [⚜ Sous-poids](debuter/cas-specifiques/sous-poids.md)
   * [🔰 Sur-poids](debuter/cas-specifiques/sur-poids.md)
+  * [🗝 Personne âgé](debuter/cas-specifiques/personne-age.md)
+  * [🫀 Problèmes de santé](debuter/cas-specifiques/problemes-de-sante.md)
 * [🌐 Cas généraux](debuter/cas-generaux.md)
 
 ## 🍀 Apprendre des figures
 
 * [⏭ Explication](apprendre-des-figures/explication.md)
-* [⚖ Figure d'équilibre](apprendre-des-figures/figure-dequilibre/README.md)
-  * [💤 Repos](apprendre-des-figures/figure-dequilibre/repos.md)
-  * [⏳ Patience](apprendre-des-figures/figure-dequilibre/patience.md)
-  * [🔺 Irrégularité de progression](apprendre-des-figures/figure-dequilibre/irregularite-de-progression.md)
-* [📏 Figure de force](apprendre-des-figures/figure-de-force/README.md)
-  * [💤 Repos](apprendre-des-figures/figure-de-force/repos.md)
-* [🌎 Environnement](apprendre-des-figures/environnement/README.md)
-  * [📍 Sol](apprendre-des-figures/environnement/sol.md)
-  * [♦ Parallettes](apprendre-des-figures/environnement/parallettes.md)
+* [⚖ Figure d'équilibre](apprendre-des-figures/figure-dequilibre.md)
+* [📏 Figure de force](apprendre-des-figures/figure-de-force.md)
+* [🌎 Environnement](apprendre-des-figures/environnement.md)
 
 ## 🏚 Figures de base&#x20;
 

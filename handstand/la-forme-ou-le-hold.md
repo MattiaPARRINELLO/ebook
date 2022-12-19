@@ -5,7 +5,7 @@ coverY: -59.6319018404908
 
 # ❓ La forme ou le hold ?
 
-A propos du handstand, tu verras souvent sur internet que les gens vont préférer avoir une forme parfaite mais hold que 10sec, personnellement je ne suis pas vraiment de cet avis. Si tu sais hold un handstand, cela te permettra de faire des combos, j’ai fait de cette manière et ma forme c’est amélioré toutes seule sans forcément la travaillée avec le temps. Alors personnellement je te recommande de faire du hold avant la forme, mais il te faut quand même une forme acceptable ! Le banana ce n’est pas grave à moins que tu aies des douleurs au dos, pense aussi à renforcer tes muscles pour travailler la forme en faisant du handstand sur le mur pour rester droit en essayant petit à petit de lâcher ses pieds pour rester droit.
+À propos du handstand, tu verras souvent sur internet que les gens vont préférer avoir une forme parfaite mais ne maintenir que dix secondes, personnellement je ne suis pas vraiment de cet avis. Si tu sais hold un handstand, cela te permettra de faire des combos, j’ai fait de cette manière et ma forme c’est amélioré toutes seule sans forcément la travaillée avec le temps. Alors personnellement je te recommande de faire du hold avant la forme, mais il te faut quand même une forme acceptable ! Le banana ce n’est pas grave à moins que tu aies des douleurs au dos, pense aussi à renforcer tes muscles pour travailler la forme en faisant du handstand sur le mur pour rester droit en essayant petit à petit de lâcher ses pieds pour rester droit.
 
 
 

@@ -5,12 +5,12 @@ coverY: 0
 
 # 🌐 Cas généraux
 
-Pour commencer le street workout, écoute ton corps, renseigne-toi sur internet, défini toi des objectifs comme précisés dans l’intro et fait ce que tu aime.
+Voici quelques conseils d'entraînement pour une personne qui souhaite débuter le street workout :
 
-### Nutrition
+1. Commencez doucement : le street workout est une discipline physique exigeante qui peut être difficile pour les débutants. Il est donc important de commencer doucement et de ne pas vous surmener. Choisissez des exercices adaptés à votre niveau et augmentez progressivement l'intensité de votre entraînement au fil des semaines.
+2. Échauffez-vous avant chaque séance : avant chaque séance d'entraînement, il est important de s'échauffer pour préparer votre corps aux efforts à venir. Vous pouvez effectuer quelques minutes de cardio léger (marche, jogging, saut à la corde) ou réaliser quelques étirements ciblés.
+3. Variez vos exercices : pour éviter la routine et stimuler votre corps de manière efficace, il est recommandé de varier vos exercices et de travailler différents groupes musculaires. Vous pouvez alterner des exercices de musculation et de cardio, ou encore utiliser des accessoires tels que des ballons de gym, des élastiques ou des barres de traction.
+4. Faites appel à un professionnel : si vous êtes débutant en street workout et que vous ne savez pas par où commencer, il peut être judicieux de faire appel à un professionnel (coach sportif, kinésithérapeute) pour vous guider et vous aider à mettre en place un programme d'entraînement adapté à vos besoins et à vos objectifs.
+5. N’oubliez pas de vous hydrater : pour maintenir votre corps en bonne santé et optimiser vos performances, il est crucial de boire suffisamment d'eau pendant votre entraînement. N'hésitez pas à emporter une bouteille d'eau avec vous et à vous hydrater régulièrement tout au long de votre séance.
 
-Pour faire tenir ton corps a ce sport, mange plus que d’habitude avec le plus de protéine aussi, bien sûr, il te faudra équilibrer le tout mais les protéines t’aideront à récupérer plus vite et à nourrir tes muscles.
-
-### Entrainement
-
-Tes entrainements peuvent être intensif, mais laisse du temps a tes tendons pour qu’ils puissent s’habituer à tes efforts physiques, cela prend environs 2 mois, mais écoute ton corps et ne cherche pas à te surpasser trop tôt !
+En résumé, pour débuter le street workout de manière efficace et en toute sécurité, il est important de commencer doucement, de s'échauffer avant chaque séance, de varier vos exercices, de faire appel à un professionnel et de ne pas oublier de vous hydrater. Si vous suivez ces conseils, vous devriez pouvoir progresser de manière saine et durable dans votre pratique du street workout et atteindre vos objectifs de condition physique.
